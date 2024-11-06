@@ -1,0 +1,29 @@
+#container {
+  background-color: lightblue;
+  padding: 5px;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: black;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.color1 {
+  background-color: red;
+}
+
+.color2 {
+  background-color: green;
+}
+
+.color3 {
+  background-color: blue;
+}
+
+.color4 {
+  background-color: yellow;
+}
